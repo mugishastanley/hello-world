@@ -1,2 +1,3 @@
 # hello-world
-Getting Started
+This Mugisha Stanley
+I love programming in Python Matlab and Java
